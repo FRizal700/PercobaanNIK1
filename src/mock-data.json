@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "fullname": "Ahmad Haris",
+      "email": "ahmad@email.com",
+      "address": "Lumajang",
+      "NIK": "221133"
+    },
+    {
+        "id": 2,
+        "fullname": "Fatoni",
+        "email": "fatoni@email.com",
+        "address": "Lumajang",
+        "NIK": "112233"
+    },
+    {
+        "id": 3,
+        "fullname": "M.Fajar",
+        "email": "fajar@email.com",
+        "address": "probolinggo",
+        "NIK": "4321"
+    }
+  ]
